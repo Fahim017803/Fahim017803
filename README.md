@@ -23,7 +23,12 @@ I actively practice on Codeforces (Div2 A/B/C range) to sharpen:
 - Algorithmic efficiency
 - Debugging discipline
 
-Strong problem-solving skills directly improve automation and system design decisions.
+Comfortable with:
+- C++ STL (vector, map, set, unordered_map, priority_queue, etc.)
+- Time & space complexity analysis
+- Binary search, prefix sums, simulation, greedy techniques
+
+Strong algorithmic thinking improves automation design and system reliability.
 
 ---
 
@@ -33,7 +38,7 @@ Strong problem-solving skills directly improve automation and system design deci
 Linux | Git | GitHub | Bash | Networking  
 
 **Languages:**  
-Python | C++  
+Python | C++ (STL)  
 
 **Tools:**  
 VS Code | GitHub CLI | AWS (Basics)
@@ -51,10 +56,10 @@ VS Code | GitHub CLI | AWS (Basics)
 
 ## 📈 Focus
 
-I’m building real DevOps fundamentals — combining:
+I’m building real DevOps fundamentals by combining:
 - System-level understanding
 - Automation mindset
-- Strong algorithmic thinking
+- Strong algorithmic problem-solving
 
 ---
 
