@@ -1,65 +1,68 @@
-# Hi, I'm Fahim 👋
+# Fahim
 
-IT Student | DevOps Learner | Sydney 🇦🇺  
-Building strong fundamentals in Linux, Git, Networking & Automation.
+DevOps-Focused IT Student | Linux & Automation Learner | Sydney 🇦🇺
+
+I am building strong system-level fundamentals in Linux, Git, Networking, and automation — documented publicly through structured daily practice.
 
 ---
 
-## 🚀 Currently Working On
-- 90 Days of DevOps Challenge
-- Linux internals & shell scripting
-- Git & GitHub automation (CLI)
-- Networking fundamentals
+## 🚀 Current Focus
+
+- 90 Days of DevOps (publicly documented)
+- Linux internals & process management
+- Shell scripting & CLI automation
+- Git & GitHub workflows (reset, rebase, PR, CLI)
+- Networking fundamentals (DNS, IP, CIDR, ports)
 - CI/CD concepts
-- Competitive Programming (Codeforces – strengthening logical thinking)
+- Competitive programming for advanced logical thinking
 
 ---
 
-## 🧠 Problem-Solving & Competitive Programming
+## 🧠 Engineering Mindset
 
-I actively practice on Codeforces (Div2 A/B/C range) to sharpen:
-- Logical thinking
-- Edge case handling
-- Algorithmic efficiency
-- Debugging discipline
+I actively practice algorithmic problem-solving (Codeforces Div2 A/B/C range) to strengthen:
 
-Comfortable with:
-- C++ STL (vector, map, set, unordered_map, priority_queue, etc.)
-- Time & space complexity analysis
-- Binary search, prefix sums, simulation, greedy techniques
+- Logical reasoning under constraints  
+- Edge case analysis  
+- Time & space complexity optimization  
+- Debugging discipline  
 
-Strong algorithmic thinking improves automation design and system reliability.
+Comfortable with C++ STL (vector, map, set, unordered_map, priority_queue) and core algorithmic techniques such as binary search, prefix sums, greedy strategies, and simulation.
+
+Strong problem-solving improves automation reliability and system design decisions.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Stack
 
-**Core DevOps Focus:**  
-Linux | Git | GitHub | Bash | Networking  
+**Systems & DevOps:**  
+Linux | Bash | Git | GitHub | GitHub CLI | Networking  
 
 **Languages:**  
 Python | C++ (STL)  
 
-**Tools:**  
-VS Code | GitHub CLI | AWS (Basics)
+**Tools & Platform Exposure:**  
+VS Code | AWS (Foundations)  
 
 ---
 
-## 📂 Featured Work
+## 📂 Selected Work
 
-- **90-days-of-devops** → Daily structured DevOps learning  
-- **shell-scripts** → Log analyzers & automation scripts  
-- **devops-notes** → Linux, Git & networking cheat sheets  
-- **python-scripts** → Automation & system utilities  
+- **90-days-of-devops** → Structured DevOps learning journey  
+- **shell-scripts** → Log analysis & automation utilities  
+- **devops-notes** → Linux, Git & networking reference documentation  
+- **python-scripts** → Automation and CLI-based utilities  
 
 ---
 
-## 📈 Focus
+## 🎯 Direction
 
-I’m building real DevOps fundamentals by combining:
-- System-level understanding
-- Automation mindset
-- Strong algorithmic problem-solving
+Focused on becoming a DevOps engineer with strong fundamentals in:
+
+- Systems thinking  
+- Automation-first mindset  
+- Clean documentation  
+- Structured continuous learning  
 
 ---
 
