@@ -1,4 +1,4 @@
-# Fahim
+# Hi, I'm Fahim 👋
 
 DevOps-Focused IT Student | Linux & Automation Learner | Sydney 🇦🇺
 
